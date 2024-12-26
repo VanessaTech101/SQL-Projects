@@ -1,6 +1,7 @@
 # SQL-Projects 📊💻
 
-Welcome to my SQL Projects repository! 🎉 Here, you'll find a variety of projects that highlight the power of SQL for database design, management, and analytics. 🚀
+Welcome to my SQL Projects repository! 🎉 
+- Here, you'll find a variety of projects that highlight the power of SQL for database design, management, and analytics. 🚀
 
 ## ✨ What's Inside?
 
